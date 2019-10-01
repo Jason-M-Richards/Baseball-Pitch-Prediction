@@ -5,6 +5,8 @@ As an avid watcher of professional baseball, it is becoming more apparent that s
 
 The goal of this project is to test the theory that pitches can be predicted based on the game situation. The implications of a successful outcome could lead to additional value to game consumption, or even a mobile application that would tell a user what pitch to predict based on the situation of the game (i.e.: runners on bases, inning, outs, pitch count, score, batter, pitcher, etc.). 
 
+## Results
 
+![results example]()
 
 This file is too large for Github to fully support. You can access the notebook via Google Colaboratory at this address https://colab.research.google.com/drive/1VaHWXq2yYuH-S-6WL_WD8VFSugcgoiUz
