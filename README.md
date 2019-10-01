@@ -5,6 +5,12 @@ As an avid watcher of professional baseball, it is becoming more apparent that s
 
 The goal of this project is to test the theory that pitches can be predicted based on the game situation. The implications of a successful outcome could lead to additional value to game consumption, or even a mobile application that would tell a user what pitch to predict based on the situation of the game (i.e.: runners on bases, inning, outs, pitch count, score, batter, pitcher, etc.). 
 
+## Dataset
+
+Kaggle is a great source of usable data in several subjects. The dataset used for this particular project is from a Kaggle dataset **MLB Pitch Data 2015-2018** at https://www.kaggle.com/pschale/mlb-pitch-data-20152018 . The dataset contains over 2.8 million observations over the three year period and includes .csv files such as _pitches_, _atbats_, _ejections_, _games_, _player_names_. 
+
+For this specific project, we will utilize the _pitches_ and _at_bats_ datasets. The column descriptions for each dataset is below. Due to the size of the data and the limitations of processing the amount of data, the 2018 season will only be used as it would be the most relevant data as it is the most recent.
+
 ## Results
 
 There are promising initial results and hope to continually improve. The image below is an example of a test sample result generated. The data in the top-left corner represents the game situation and the visual represents the pitch probability. Data points are:
