@@ -7,6 +7,6 @@ The goal of this project is to test the theory that pitches can be predicted bas
 
 ## Results
 
-![results example]()
+![results example](https://github.com/Jason-Richards76/Baseball-Pitch-Prediction/blob/master/Untitled.png)
 
 This file is too large for Github to fully support. You can access the notebook via Google Colaboratory at this address https://colab.research.google.com/drive/1VaHWXq2yYuH-S-6WL_WD8VFSugcgoiUz
